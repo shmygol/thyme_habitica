@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'thyme_habitica'
-  s.version     = '1.0.0'
+  s.version     = '1.1.1'
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ['MIT']
   s.authors     = ['Ilya Shmygol']
